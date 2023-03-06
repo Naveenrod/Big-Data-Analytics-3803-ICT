@@ -3,7 +3,7 @@
 
 Full Name: S. Naveen A. S. Rodrigo
 
-sNumber:s5286336
+sNumber: s5286336
 
-Griffith email:naveen.rodrigo@griffithuni.edu.au
+Griffith email: naveen.rodrigo@griffithuni.edu.au
 
